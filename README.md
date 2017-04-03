@@ -1,0 +1,2 @@
+# fizzBuzz
+ Fizzbuzz is a game about division. This program will iterate through numbers 1 to 100 and do the following:  If the number is evenly divisible by 3, log "fizz" to the console. If the number is evenly divisible by 5, log "buzz" to the console. If the number is evenly divisible by both 3 and 5 (for example, 0 or 15), log "fizzbuzz" to the console. If the number is not evenly divisible by either 3 or 5 (for example, 7), log the value of the number to the console.
